@@ -1,1 +1,9 @@
 
+Lenovo@DESKTOP-5B3U87L MINGW64 ~/Simple-Interest-Calculator (main)
+$ git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/interset
+  remotes/origin/main
