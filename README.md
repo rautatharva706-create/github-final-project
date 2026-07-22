@@ -15,3 +15,4 @@ Where:
 2. Enter the rate of interest per annum.
 3. Enter the time duration in years.
 4. Calculate the total interest and final balance.
+Minor typo fixed.
